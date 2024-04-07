@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/kozha/OneDrive/Рабочий стол/GitHub/CompetitiveProgrammingCPP/Base",
-      "program": "c:/Users/kozha/OneDrive/Рабочий стол/GitHub/CompetitiveProgrammingCPP/Base/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
